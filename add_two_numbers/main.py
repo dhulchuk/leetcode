@@ -8,7 +8,7 @@ class ListNode:
         return str(self) == str(other)
 
     @staticmethod
-    def from_list(l):
+    def from_reversed_list(l):
         first = ListNode(l[-1])
         r = first
         for x in l[:-1][::-1]:
@@ -79,18 +79,18 @@ class Solution2:
 
 
 if __name__ == '__main__':
-    assert str(ListNode.from_list([1, 2, 3])) == '123'
-    a = ListNode.from_list([3, 4, 2])
+    assert str(ListNode.from_reversed_list([1, 2, 3])) == '123'
+    a = ListNode.from_reversed_list([3, 4, 2])
     assert Solution2().to_int(a) == 342, Solution2().to_int(a)
-    b = ListNode.from_list([4, 6, 5])
-    expected = ListNode.from_list([8, 0, 7])
+    b = ListNode.from_reversed_list([4, 6, 5])
+    expected = ListNode.from_reversed_list([8, 0, 7])
     r1 = Solution().addTwoNumbers(a, b)
     r2 = Solution2().addTwoNumbers(a, b)
     assert r1 == expected, str(r1)
     assert r2 == expected, str(r2)
-    c = ListNode.from_list([4, 6, 5])
-    d = ListNode.from_list([6, 6, 7])
-    expected = ListNode.from_list([1, 1, 3, 2])
+    c = ListNode.from_reversed_list([4, 6, 5])
+    d = ListNode.from_reversed_list([6, 6, 7])
+    expected = ListNode.from_reversed_list([1, 1, 3, 2])
     r1 = Solution().addTwoNumbers(c, d)
     r2 = Solution2().addTwoNumbers(c, d)
     assert r1 == expected, str(r1)
