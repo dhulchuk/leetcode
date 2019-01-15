@@ -10,7 +10,8 @@ My leetcode.com solutions.
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./regular_expression_matching/main.py) | Hard |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./remove_nth_node_from_end_of_list/main.py) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./valid_sudoku/main.py) | Medium |
-|  |  |  |  |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./house_robber/main.py) | Easy |
+| -- |
 
 ### Statistics
 
