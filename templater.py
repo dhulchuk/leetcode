@@ -82,9 +82,13 @@ class Templater:
             f.write(readme)
         print('README.md updated!\n')
 
+    def print_commit_message(self):
+        print(f'#{self.question_id}: {self.title}\n')
+
     def format_workspace(self):
         self.create_solution_file()
         self.save_to_readme()
+        self.print_commit_message()
 
 
 async def main():

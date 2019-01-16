@@ -12,6 +12,7 @@ My leetcode.com solutions.
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./valid_sudoku/main.py) | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./house_robber/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./search_insert_position/main.py) | Easy |
+| 906 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python](./walking_robot_simulation/main.py) | Easy |
 | -- |
 
 ### Statistics
@@ -23,4 +24,4 @@ My leetcode.com solutions.
 | 6 | 1, 2, 3 |
 | 14 | 10, 19|
 | 15 | 36, 198 |
-| 16 | 35 |
+| 16 | 35, 906 |
