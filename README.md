@@ -16,6 +16,7 @@ My leetcode.com solutions.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./permutations/main.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./permutations_ii/main.py) | Medium |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./implement_stack_using_queues/main.py) | Easy |
+| 927 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Python](./sum_of_subsequence_widths/main.py) | Hard |
 | -- |
 
 ### Statistics
@@ -29,3 +30,4 @@ My leetcode.com solutions.
 | 15 | 36, 198 |
 | 16 | 35, 906 |
 | 17 | 46, 47, 225 |
+| 18 | 927 |
