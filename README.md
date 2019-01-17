@@ -14,6 +14,7 @@ My leetcode.com solutions.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./search_insert_position/main.py) | Easy |
 | 906 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python](./walking_robot_simulation/main.py) | Easy |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./permutations/main.py) | Medium |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./permutations_ii/main.py) | Medium |
 | -- |
 
 ### Statistics
