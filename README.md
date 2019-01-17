@@ -13,6 +13,7 @@ My leetcode.com solutions.
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./house_robber/main.py) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./search_insert_position/main.py) | Easy |
 | 906 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python](./walking_robot_simulation/main.py) | Easy |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./permutations/main.py) | Medium |
 | -- |
 
 ### Statistics
@@ -25,3 +26,4 @@ My leetcode.com solutions.
 | 14 | 10, 19|
 | 15 | 36, 198 |
 | 16 | 35, 906 |
+| 17 | 46, |
