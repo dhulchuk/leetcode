@@ -18,6 +18,7 @@ My leetcode.com solutions.
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./implement_stack_using_queues/main.py) | Easy |
 | 927 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Python](./sum_of_subsequence_widths/main.py) | Hard |
 | 819 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Python](./minimum_swaps_to_make_sequences_increasing/main.py) | Medium |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./implement_strstr/main.py) | Easy |
 | -- |
 
 ### Statistics
@@ -32,3 +33,4 @@ My leetcode.com solutions.
 | 16 | 35, 906 |
 | 17 | 46, 47, 225 |
 | 18 | 927, 819 |
+| 21 | 28 |
