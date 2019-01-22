@@ -20,6 +20,7 @@ My leetcode.com solutions.
 | 819 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Python](./minimum_swaps_to_make_sequences_increasing/main.py) | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./implement_strstr/main.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./best_time_to_buy_and_sell_stock/main.py) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./best_time_to_buy_and_sell_stock_ii/main.py) | Easy |
 | -- |
 
 ### Statistics
@@ -35,4 +36,4 @@ My leetcode.com solutions.
 | 17 | 46, 47, 225 |
 | 18 | 927, 819 |
 | 21 | 28 |
-| 22 | 121 |
+| 22 | 121, 122 |
