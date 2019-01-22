@@ -83,12 +83,17 @@ class Templater:
         print('README.md updated!\n')
 
     def print_commit_message(self):
-        print(f'#{self.question_id}: {self.title}\n')
+        commit_message = f'#{self.question_id}: {self.title}'
+        git_template = f'git add -A && git commit -m "{commit_message}" && git push\n'
+        print(git_template)
 
     def format_workspace(self):
-        self.create_solution_file()
-        self.save_to_readme()
-        self.print_commit_message()
+        try:
+            self.create_solution_file()
+            self.save_to_readme()
+            self.print_commit_message()
+        except FileExistsError:
+            print('Solution file already exists!\n')
 
 
 async def main():
