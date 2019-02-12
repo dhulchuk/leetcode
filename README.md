@@ -21,6 +21,7 @@ My leetcode.com solutions.
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./implement_strstr/main.py) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./best_time_to_buy_and_sell_stock/main.py) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./best_time_to_buy_and_sell_stock_ii/main.py) | Easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./maximum_subarray/main.py) | Easy |
 | -- |
 
 ### Statistics
@@ -37,3 +38,7 @@ My leetcode.com solutions.
 | 18 | 927, 819 |
 | 21 | 28 |
 | 22 | 121, 122 |
+
+| February |  |
+| --- | --- |
+| 12 | 53 |
